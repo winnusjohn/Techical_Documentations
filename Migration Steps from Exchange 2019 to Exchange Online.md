@@ -4,8 +4,8 @@
 - Use PowerShell to run the following command on your Exchange Server to get the total number of mailboxes:
   ```PowerShell
   Get-Mailbox -ResultSize Unlimited | Measure-Object
-**Image Example Output
-#
+Example Output:
+
 ![Image 1](https://github.com/user-attachments/assets/c7d15b4e-51c9-4595-9fbd-fcc7f93d9173)
 
 **Note: This output indicates the total number of mailboxes on your Exchange Server. The value for "Count" represents the total count of mailboxes**.
@@ -24,7 +24,7 @@
 **Note: Replace <ServerName> with the name of your Exchange Server.**
 
 Example Output:
-#
+
 ![Image](https://github.com/user-attachments/assets/dcc9dcfb-9e02-440d-8a4c-ae008e316271)
 
 ---
@@ -40,7 +40,7 @@ Example Output:
 **Note: Replace <StartDate> and <EndDate> with the desired date range.**
 
  Example Output:
-#
+
 ![Image](https://github.com/user-attachments/assets/6e3e633b-5163-4e8a-954c-1eb36f4623c8)  
 
 ---
