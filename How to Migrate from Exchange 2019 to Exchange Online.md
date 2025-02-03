@@ -35,8 +35,10 @@ Migrating from Exchange Server 2019 to Exchange Online involves several steps to
 #
 ### 3. Set Up and Configure Azure AD Connect
 setting up and configuring Azure AD Connect is a critical step in ensuring seamless synchronization between your on-premises Active Directory and Azure AD for the migration to Exchange Online. Follow these steps to set up and configure Azure AD Connect
-#
-# Download and Install Azure AD Connect
+
+
+---
+## Download and Install Azure AD Connect
 ### 1. Download Azure AD Connect:
 - Visit the [Azure AD Connect download page](https://www.microsoft.com/en-us/download/details.aspx?id=47594)
 - Download the latest version of Azure AD Connect
@@ -52,6 +54,8 @@ setting up and configuring Azure AD Connect is a critical step in ensuring seaml
 - During installation, you will be prompted to sign in with an account that has the necessary permissions in Azure AD
 #
 **After signing into Azure AD. The next step is to  configure the Azure AD Connect**
+
+---
 
 # Configure Azure AD Connect
 ### 1. Configure Connectors:
@@ -73,6 +77,8 @@ setting up and configuring Azure AD Connect is a critical step in ensuring seaml
 ### 9. Monitor and troubleshoot the Azure AD Connect 
 - Verify the synchronization process to ensure it is completed successfully
 - Check for the Azure AD Connect health. Consider installing and configuring Azure AD Connect Health for monitoring and troubleshooting purposes
+
+---
 
 # Migration Steps
 ### 1. Assess Your Environment
@@ -149,6 +155,8 @@ setting up and configuring Azure AD Connect is a critical step in ensuring seaml
 
 - Remove Legacy Components:
   - Remove any remaining on-premises Exchange components
+
+---
 
 # Post-Migration
 ### 1. Ongoing Monitoring and Support
