@@ -6,29 +6,29 @@ Welcome to the Microsoft Office Documentation Repository. This collection contai
 ## Available Documentation
 
 ### Installation & Uninstallation Guides
-- [Office 365 App Enterprise Installation Guide](./office365-enterprise-install.md)
+- [Office 365 App Enterprise Installation Guide](https://github.com/winnusjohn/Techical_Documentations/blob/08ed6efbeb6a2cd88b2f0576f8ff25d889ae4ea2/How%20to%20Migrate%20from%20Exchange%202019%20to%20Exchange%20Online.md)
  - Complete walkthrough for installing Office 365 Enterprise apps
  - System requirements and prerequisites
  - Step-by-step installation process for Windows and macOS
  - Outlook account setup and configuration
 
-- [How To Uninstall Office 2019 Professional And 2016](./office-uninstall-guide.md)
+- [How To Uninstall Office 2019 Professional And 2016](https://github.com/winnusjohn/Techical_Documentations/blob/08ed6efbeb6a2cd88b2f0576f8ff25d889ae4ea2/How%20To%20Also%20Uninstall%20Office%202019%20Professional%20And%202016.md)
  - Detailed uninstallation steps for Office 2019 Professional
  - Clean removal process for Office 2016
  - Troubleshooting common uninstallation issues
 
 ### Migration Guides
-- [How to Migrate from Exchange 2019 to Exchange Online](./exchange-online-migration.md)
+- [How to Migrate from Exchange 2019 to Exchange Online](https://github.com/winnusjohn/Techical_Documentations/blob/08ed6efbeb6a2cd88b2f0576f8ff25d889ae4ea2/How%20to%20Migrate%20from%20Exchange%202019%20to%20Exchange%20Online.md)
  - Complete migration workflow
  - Pre-migration checklist
  - Step-by-step migration process
 
-- [Migration Steps from Exchange 2019 to Exchange](./exchange-migration-steps.md)
+- [Migration Steps from Exchange 2019 to Exchange](https://github.com/winnusjohn/Techical_Documentations/blob/08ed6efbeb6a2cd88b2f0576f8ff25d889ae4ea2/Migration%20Steps%20from%20Exchange%202019%20to%20Exchange%20Online.md)
  - Detailed migration planning
  - Implementation steps
  - Post-migration verification
 
-- [Staged Migration Guide](./staged-migration.md)
+- [Staged Migration Guide](https://github.com/winnusjohn/Techical_Documentations/blob/08ed6efbeb6a2cd88b2f0576f8ff25d889ae4ea2/Staged%20Migration.md)
  - Batch migration process
  - PowerShell commands and examples
  - Migration monitoring and verification
